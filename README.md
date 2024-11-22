@@ -31,7 +31,11 @@
 
 ## 📱 **Screenshots**  
 
-![alt text](Atten_Materials/Screenshot_20241122_191431.jpg)
+<p align="center">
+  <img src="Atten_Materials/Screenshot_20241122_191431.jpg" width="360" height="800">
+  <img src="Atten_Materials/Screenshot_20241122_191441.jpg" width="360" height="800">
+  <img src="Atten_Materials/Screenshot_20241122_191448.jpg" width="360" height="800">
+</p>
 
 ---
 
