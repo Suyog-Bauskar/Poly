@@ -43,4 +43,13 @@
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/yourusername/ClassSync-Student-App.git
+   git clone https://github.com/Suyog-Bauskar/poly.git
+2. **Open in Android Studio.**
+3. **Build and run** the project on your device or emulator.
+
+## 🤝 **Contributing**
+We welcome contributions! Follow these steps:
+
+1. Fork the repository.
+2. Create a feature branch.
+3. Submit a pull request with your changes.
