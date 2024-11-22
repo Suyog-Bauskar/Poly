@@ -9,9 +9,7 @@
 - ✅ **Attendance Tracking**:  
   Easily monitor your attendance and download detailed reports in Excel format.  
 - 📝 **Assignments & Tests**:  
-  Stay updated with upcoming assignments and test scores.  
-- 🎥 **Video Lectures**:  
-  Access lecture videos anytime, anywhere.  
+  Stay updated with upcoming assignments and test scores.   
 - 📅 **Timetable Display**:  
   Keep track of your daily schedule with an organized timetable.  
 - 📊 **Marks and Feedback**:  
@@ -48,7 +46,7 @@
 3. **Build and run** the project on your device or emulator.
 
 ## 🤝 **Contributing**
-We welcome contributions! Follow these steps:
+I welcome contributions! Follow these steps:
 
 1. Fork the repository.
 2. Create a feature branch.
