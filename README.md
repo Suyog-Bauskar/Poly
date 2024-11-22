@@ -37,17 +37,47 @@
 
 ---
 
-## 🛠️ **How to Install**  
+## 🛠️ **How to Install**
 
-1. **Clone the repository**:  
+Follow these steps to set up and run the ClassSync Student App on your local machine:
+
+1. **Clone this repository**:  
+   Open your terminal and run:  
    ```bash
-   git clone https://github.com/Suyog-Bauskar/poly.git
-2. **Open in Android Studio.**
-3. **Build and run** the project on your device or emulator.
+   git clone https://github.com/Suyog-Bauskar/Poly.git
+2. **Open the project**:
+   Open the cloned project in **Android Studio**.
+3. **Set up Firebase**:
+   - Go to Firebase Console and create a new project.
+   - Download the `google-services.json` file from Firebase and place it in the `app/` directory.
+4. **Build and run the project**:
+   - Connect your Android device or start an emulator.
+   - Click the Run button in Android Studio to install and launch the app.
 
 ## 🤝 **Contributing**
-I welcome contributions! Follow these steps:
+I welcome contributions to enhance the functionality of the ClassSync Student App! Here's how you can contribute:
 
-1. Fork the repository.
-2. Create a feature branch.
-3. Submit a pull request with your changes.
+1. **Fork the Repository**:
+Click the "Fork" button on the top right of this repository to create a copy under your GitHub account.
+2. **Clone Your Fork**:
+Clone your fork to your local system:
+   ```
+   git clone https://github.com/Suyog-Bauskar/Poly.git
+   cd Poly
+   ```
+3. **Create a Branch**:
+   Create a branch for your feature or bug fix:
+   ```
+   git checkout -b feature-or-bugfix-name
+   ```
+4. **Make Your Changes**:
+Implement the changes or add features as needed.
+5. **Commit and Push**:
+Save your changes and push them to your fork:
+```
+git add .
+git commit -m "Description of your changes"
+git push origin feature-or-bugfix-name
+```
+6. **Submit a Pull Request**:
+Go to the original repository on GitHub, and click **Pull Request**. Fill in the template and submit your changes for review.
